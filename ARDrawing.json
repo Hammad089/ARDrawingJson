@@ -1,5 +1,5 @@
 {
-    "main_cat_name" :"Animal",
+    "main_cat_name" :"animal",
     "data":[
         {
             "id":"1",
@@ -102,7 +102,7 @@
             "link":"https://ardrawing.netlify.app/images/animal/an21.png"
         }
     ],
-    "main_cat_name" :"Carto",
+    "main_cat_name" :"carto",
     "data":[
         {
             "id":"21",
@@ -112,7 +112,7 @@
         {
             "id":"22",
             "name":"ca2",
-            "link":"https://ardrawing.netlify.app/images/carto/ca2.png"
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
         },
         {
             "id":"23",
@@ -171,7 +171,7 @@
         },
         {
             "id":"34",
-            "name":"ca14.png",
+            "name":"ca14",
             "link":"https://ardrawing.netlify.app/images/carto/ca14.png"
         },
         {
@@ -196,13 +196,219 @@
         },
         {
             "id":"39",
-            "name":"ca19.png",
+            "name":"ca19",
             "link":"https://ardrawing.netlify.app/images/carto/ca19.png"
         },
         {
             "id":"40",
             "name":"ca20",
             "link":"https://ardrawing.netlify.app/images/carto/ca20.png"
+        }
+    ],
+    "main_cat_name" :"kids",
+    "data":[
+        {
+            "id":"41",
+            "name":"ki1",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"42",
+            "name":"ki2",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"43",
+            "name":"ki3",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"44",
+            "name":"ki4",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"45",
+            "name":"ki5",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"46",
+            "name":"ki6",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"47",
+            "name":"ki7",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"48",
+            "name":"ki8",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"49",
+            "name":"ki9",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"50",
+            "name":"ki10",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"51",
+            "name":"ki11",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"52",
+            "name":"ki12",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"53",
+            "name":"ki13",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"54",
+            "name":"ki14",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"55",
+            "name":"ki15",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"56",
+            "name":"ki16",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"57",
+            "name":"ki17",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"58",
+            "name":"ki18",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"59",
+            "name":"ki19",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        },
+        {
+            "id":"60",
+            "name":"ki20",
+            "link":"https://ardrawing.netlify.app/images/kids/k1.png"
+        }
+    ],
+    "main_cat_name" :"mazak",
+    "data":[
+        {
+            "id":"61",
+            "name":"ma1",
+            "link":"https://ardrawing.netlify.app/images/mazak/f1.png"
+        },
+        {
+            "id":"62",
+            "name":"ma2",
+            "link":"https://ardrawing.netlify.app/images/mazak/f2.png"
+        },
+        {
+            "id":"63",
+            "name":"ma3",
+            "link":"https://ardrawing.netlify.app/images/mazak/f3.png"
+        },
+        {
+            "id":"64",
+            "name":"ma4",
+            "link":"https://ardrawing.netlify.app/images/mazak/f4.png"
+        },
+        {
+            "id":"65",
+            "name":"ma5",
+            "link":"https://ardrawing.netlify.app/images/mazak/f5.png"
+        },
+        {
+            "id":"66",
+            "name":"ma6",
+            "link":"https://ardrawing.netlify.app/images/mazak/f6.png"
+        },
+        {
+            "id":"67",
+            "name":"ma7",
+            "link":"https://ardrawing.netlify.app/images/mazak/f7.png"
+        },
+        {
+            "id":"68",
+            "name":"ma8",
+            "link":"https://ardrawing.netlify.app/images/mazak/f8.png"
+        },
+        {
+            "id":"69",
+            "name":"ma9",
+            "link":"https://ardrawing.netlify.app/images/mazak/f9.png"
+        },
+        {
+            "id":"70",
+            "name":"ma10",
+            "link":"https://ardrawing.netlify.app/images/mazak/f10.png"
+        },
+        {
+            "id":"71",
+            "name":"ma11",
+            "link":"https://ardrawing.netlify.app/images/mazak/f11.png"
+        },
+        {
+            "id":"72",
+            "name":"ma12",
+            "link":"https://ardrawing.netlify.app/images/mazak/f12.png"
+        },
+        {
+            "id":"73",
+            "name":"ma13",
+            "link":"https://ardrawing.netlify.app/images/mazak/f13.png"
+        },
+        {
+            "id":"74",
+            "name":"ma14",
+            "link":"https://ardrawing.netlify.app/images/mazak/f14.png"
+        },
+        {
+            "id":"75",
+            "name":"ma15",
+            "link":"https://ardrawing.netlify.app/images/mazak/f15.png"
+        },
+        {
+            "id":"76",
+            "name":"ma16",
+            "link":"https://ardrawing.netlify.app/images/mazak/f16.png"
+        },
+        {
+            "id":"77",
+            "name":"ma17",
+            "link":"https://ardrawing.netlify.app/images/mazak/f17.png"
+        },
+        {
+            "id":"78",
+            "name":"ma18",
+            "link":"https://ardrawing.netlify.app/images/mazak/f18.png"
+        },
+        {
+            "id":"79",
+            "name":"ma19",
+            "link":"https://ardrawing.netlify.app/images/mazak/f19.png"
+        },
+        {
+            "id":"80",
+            "name":"ma20",
+            "link":"https://ardrawing.netlify.app/images/mazak/f20.png"
         }
     ]
 }
